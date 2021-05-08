@@ -21,7 +21,7 @@ ___
 ### 2018
 The Excel screenshot below shows the Stock data and code performance for the year 2018.
 * With original Macro the code was taking 0.81 seconds to run
-* After refactoring the Macro code is taking 0.13 seconds to run
+* After refactoring the Macro code is taking 0.12 seconds to run
 * Out of 12 stocks only two stocks returned positive value ENPH gave highest return of 81.9% followed by RUN with 84.0%
 * Last year's top performing stock DQ gave the least return with negative -62.6%
 ___

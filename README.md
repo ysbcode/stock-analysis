@@ -1,7 +1,7 @@
 # Stock-Analysis
 
 ## Overview of Project
-Creating a Macro which enables our client to look at various stocks data throughout the year.
+Creating a Excel VBA Macro which enables our client to look at various stocks data throughout the year.
 ### Background
 Our client Steve wants to find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; 
 it measures how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year.
